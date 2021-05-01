@@ -1,4 +1,4 @@
-[![Board Status](https://dev.azure.com/SandboxServers/ccebe52c-6200-4e49-ae18-5217b565db46/838ef962-f749-478b-b2ab-61f86f3765b3/_apis/work/boardbadge/8efc6553-73b9-47d7-a263-5aaf4aba891c)](https://dev.azure.com/SandboxServers/ccebe52c-6200-4e49-ae18-5217b565db46/_boards/board/t/838ef962-f749-478b-b2ab-61f86f3765b3/Microsoft.RequirementCategory)
+[![Board Status](https://dev.azure.com/SandboxServers/ccebe52c-6200-4e49-ae18-5217b565db46/838ef962-f749-478b-b2ab-61f86f3765b3/_apis/work/boardbadge/8efc6553-73b9-47d7-a263-5aaf4aba891c?columnOptions=1)](https://dev.azure.com/SandboxServers/ccebe52c-6200-4e49-ae18-5217b565db46/_boards/board/t/838ef962-f749-478b-b2ab-61f86f3765b3/Microsoft.RequirementCategory/)
 # What is Mail2Bug?
 
 ## Overview
